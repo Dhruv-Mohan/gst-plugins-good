@@ -76,7 +76,7 @@ enum
   LAST_SIGNAL
 };
 
-#define DEFAULT_LATENCY_MS      200
+#define DEFAULT_LATENCY_MS      0
 
 enum
 {
